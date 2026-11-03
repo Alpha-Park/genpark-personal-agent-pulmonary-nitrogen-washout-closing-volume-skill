@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-pulmonary-nitrogen-washout-closing-volume-skill",
+  "version": "1.0.0",
+  "description": "Calculates Pulmonary Closing Volume (CV), Closing Capacity (CC), CV/VC%, CC/TLC%, and Phase III Slope (delta N2%/L) via Single-Breath Nitrogen Washout.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "pulmonary",
+    "closing-volume",
+    "closing-capacity",
+    "nitrogen-washout",
+    "small-airway",
+    "respiratory",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
